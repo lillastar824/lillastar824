@@ -10,17 +10,12 @@ If you found value in something I have created, please feel free to give some â™
 ### My Digital highlights ðŸŒ±
 
 - JavaScript / TypeScript, Bootstrap, Php
-- React, Gatsby, Next, Styled-Components
-- Vue, Vuex, Vuetify, Nuxt
-- WebGL, Three.js, Babylon.js
-- Redux Saga, Redux Thunk, Mobx
-- Material UI, Ant Design, Semantic UI
+- React, Gatsby, Next, Styled-Components, Nuxt, WebGL
+- Redux Saga, Redux Thunk, Material UI
 - RESTful / GraphQL
 - Node / Express / Hapi
 - WordPress, Shopify, Magento
-- Python / Django
 - Laravel
-- Ruby on Rails
 - MySQL, MongoDB, PostgreSQL
 - Headless CMS ( GraphCMS, Strapi, ContentStack, Contentful, ButterCMS )
 - GitHub, GitLab, Bitbucket, Slack, Trello, JIRA
