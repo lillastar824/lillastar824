@@ -17,7 +17,7 @@ If you found value in something I have created, please feel free to give some â™
 - WordPress, Shopify, Magento
 - Laravel
 - MySQL, MongoDB, PostgreSQL
-- Headless CMS ( GraphCMS, Strapi, ContentStack, Contentful, ButterCMS )
+- CMS ( GraphCMS, Strapi, ContentStack, Contentful, ButterCMS )
 - GitHub, GitLab, Bitbucket, Slack, Trello, JIRA
 - Amazon Web Service, DigitalOcean
 
