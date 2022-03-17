@@ -3,8 +3,8 @@ I am senior web developer looking to solve real world problems with a flair for 
 If you found value in something I have created, please feel free to give some ♥ on [mail](mailto:jackyjin824@gmail.com). Feel free to reach out in case you want to just get in touch also.
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/jacky-jin-webexpert/"><img height="30" src="https://github.com/lillastar824/lillastar824/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:singh_kshitij@yahoo.com"><img height="30" src="https://github.com/lillastar824/lillastar824/blob/master/mail.png?raw=true"></a>
+<a href=""><img height="30" src="https://github.com/lillastar824/lillastar824/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://github.com/lillastar824/lillastar824/blob/master/mail.png?raw=true"></a>
 </p>
 
 ### My Digital highlights 🌱
