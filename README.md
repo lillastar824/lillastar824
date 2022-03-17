@@ -10,7 +10,7 @@ If you found value in something I have created, please feel free to give some â™
 ### My Digital highlights ðŸŒ±
 
 - JavaScript / TypeScript, Bootstrap, Php
-- React, Gatsby, Next, Styled-Components, React-Bootstrap, Material-UI, Angular, Vuew, WebGL
+- React, Gatsby, Next, Styled-Components, React-Bootstrap, Material-UI, Angular, Vue, WebGL
 - Redux Saga, Redux Thunk, Material UI
 - RESTful / GraphQL
 - Node / Express / Hapi
