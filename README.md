@@ -2,11 +2,6 @@
 I am senior web developer looking to solve real world problems with a flair for creating elegant solutions in the least amount of time. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 If you found value in something I have created, please feel free to give some ♥ on [mail]. Feel free to reach out in case you want to just get in touch also.
 
-<p align='center'>
-<a><img height="30" src="https://github.com/lillastar824/lillastar824/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a><img height="30" src="https://github.com/lillastar824/lillastar824/blob/master/mail.png?raw=true"></a>
-</p>
-
 ### My Digital highlights 🌱
 
 - JavaScript / TypeScript, Bootstrap, Php
