@@ -1,4 +1,4 @@
-### Hi, there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="width:30px;">
+### Hi, there, 👋
 I am senior web developer looking to solve real world problems with a flair for creating elegant solutions in the least amount of time. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 If you found value in something I have created, please feel free to give some ♥ on [mail]. Feel free to reach out in case you want to just get in touch also.
 
