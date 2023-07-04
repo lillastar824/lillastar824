@@ -4,18 +4,16 @@ If you found value in something I have created, please feel free to give some â™
 
 ### My Digital highlights ðŸŒ±
 
-- JavaScript / TypeScript, Bootstrap, Php
-- React, Gatsby, Next, Styled-Components, React-Bootstrap, Material-UI, Angular, Vue, WebGL
-- Redux Saga, Redux Thunk, Material UI
-- RESTful / GraphQL
-- Node / Express / Hapi
+- JavaScript / TypeScript, HTML, CSS/SCSS, Php
+- React, Gatsby, Next.JS, Redux, Styled-Components, React-Bootstrap, Material-UI, Angular, Vue
+- Python(Django, Flask), Node / Express
 - WordPress, Shopify, Magento
 - Laravel
-- MySQL, MongoDB, PostgreSQL
-- CMS ( GraphCMS, Strapi, ContentStack, Contentful, ButterCMS )
+- MySQL, MongoDB, PostgreSQL, RESTful / GraphQL
 - GitHub, GitLab, Bitbucket, Slack, Trello, JIRA
 - Amazon Web Service, DigitalOcean
-
+- CMS ( GraphCMS, Strapi, ContentStack, Contentful )
+  
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
