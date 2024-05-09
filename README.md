@@ -6,8 +6,8 @@ If you found value in something I have created, please feel free to give some â™
 
 - JavaScript / TypeScript, HTML, CSS/SCSS, Php
 - React, Gatsby, Next.JS, Redux, Styled-Components, React-Bootstrap, Material-UI, Angular, Vue
-- Python(Django, Flask), Node / Express, Laravel
-- WordPress, Shopify, Magento
+- Python(Django, Flask), Node / Express
+- Shopify, WordPress
 - MySQL, MongoDB, PostgreSQL, RESTful / GraphQL
 - GitHub, GitLab, Bitbucket, Slack, Trello, JIRA
 - Amazon Web Service, DigitalOcean
